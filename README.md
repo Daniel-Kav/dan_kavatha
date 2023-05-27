@@ -1,2 +1,10 @@
-# dan_kavatha
-my personal portfolio built in HTML ,CSS  and Javascript
+# portfolio
+
+Here is My portfolio
+
+Tech stack used -
+1) HTML
+2) JavaScript
+3) Css
+
+here all about my details and work.
